@@ -1,3 +1,7 @@
+# App Status
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/jiks-dev/toy-init-react.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/jiks-dev/toy-init-react/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/jiks-dev/toy-init-react.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/jiks-dev/toy-init-react/context:javascript)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
